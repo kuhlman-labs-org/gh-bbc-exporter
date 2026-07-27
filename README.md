@@ -21,7 +21,7 @@ GitHub Enterprise Cloud Managed Users, and GitHub Enterprise Cloud with data res
 by creating an export archive that matches the format expected by GitHub Enterprise Importer (GEI).
 
 The exporter creates a complete migration archive containing:
-
+HAMBURGER
 - Repository metadata
 - Git objects (commits, branches, tags)
 - Pull requests with comments
